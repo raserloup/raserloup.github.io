@@ -1,4 +1,7 @@
 <h1>Hi, I'm Ermias! <br/><a href="https://github.com/raserloup">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Graphics Designer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h2>👨‍💻 youtube project Projects:</h2>
+- <b>About Creating a Reo in Github</b>
+  - [Praciting DS & Algos in Python](https://github.com/raserloup/youtube-Demostration)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
